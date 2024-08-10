@@ -34,7 +34,7 @@
     -dispatch(action)
     -reducer
     -Selector
-# Types of Testing a devloper ca do
+# Types of Testing a devloper can do
     - Unit testing
     - Integration Testing
     - End to End testing or e2e testing
